@@ -110,6 +110,10 @@
           {
             "id": "eb17b641-f258-4753-8077-29134f88869a",
             "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "42da7003-809a-4ef5-9a65-39c5a4c5cb08",
+            "state": "InstalledAndPermanent"
           }
         ]
       },
@@ -153,10 +157,6 @@
           {
             "id": "6952dbc6-50c6-4713-850f-43ee973159b2",
             "state": "NotInstalled"
-          },
-          {
-            "id": "42da7003-809a-4ef5-9a65-39c5a4c5cb08",
-            "state": "InstalledAndPermanent"
           }
         ]
       }
